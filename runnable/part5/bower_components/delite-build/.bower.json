@@ -1,0 +1,30 @@
+{
+  "name": "delite-build",
+  "version": "0.5.1",
+  "dependencies": {
+    "jquery": ">=2.1",
+    "requirejs": "2.1.x",
+    "decor-build": "0.4.x",
+    "dpointer-build": "0.4.x"
+  },
+  "devDependencies": {
+    "delite": "0.5.1"
+  },
+  "ignore": [
+    ".jshintrc",
+    ".gitattributes",
+    ".travis.yml",
+    "tests",
+    "CONTRIBUTING.md"
+  ],
+  "homepage": "https://github.com/ibm-js/delite-build",
+  "_release": "0.5.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.5.1",
+    "commit": "6bfcfc82409bfbaa1df68ad063f6ae1eef5aa540"
+  },
+  "_source": "git://github.com/ibm-js/delite-build.git",
+  "_target": "0.5.x",
+  "_originalSource": "delite-build"
+}

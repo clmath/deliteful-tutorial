@@ -1,0 +1,29 @@
+{
+  "name": "ecma402-build",
+  "version": "0.2.6",
+  "dependencies": {
+    "requirejs": "2.1.x",
+    "requirejs-text": "2.0.x",
+    "requirejs-dplugins": "0.4.x"
+  },
+  "ignore": [
+    ".jshintrc",
+    ".gitattributes",
+    ".travis.yml",
+    "tests",
+    "CONTRIBUTING.md"
+  ],
+  "devDependencies": {
+    "ecma402": "0.2.6"
+  },
+  "homepage": "https://github.com/ibm-js/ecma402-build",
+  "_release": "0.2.6",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.2.6",
+    "commit": "c1a0a0e29165e03bd9348522437d972ff378962c"
+  },
+  "_source": "git://github.com/ibm-js/ecma402-build.git",
+  "_target": "0.2.x",
+  "_originalSource": "ecma402-build"
+}

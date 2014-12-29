@@ -1,0 +1,20 @@
+{
+  "name": "delite-build",
+  "version": "0.5.1",
+  "dependencies": {
+    "jquery": ">=2.1",
+    "requirejs": "2.1.x",
+    "decor-build": "0.4.x",
+    "dpointer-build": "0.4.x"
+  },
+  "devDependencies": {
+    "delite": "0.5.1"
+  },
+  "ignore": [
+    ".jshintrc",
+    ".gitattributes",
+    ".travis.yml",
+    "tests",
+    "CONTRIBUTING.md"
+  ]
+}

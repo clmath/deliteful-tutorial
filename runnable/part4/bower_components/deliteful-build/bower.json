@@ -1,0 +1,27 @@
+{
+  "name": "deliteful-build",
+  "version": "0.5.1",
+  "dependencies": {
+    "requirejs": "2.1.x",
+    "dstore": "1.0.x",
+    "decor-build": "0.4.x",
+    "delite-build": "0.5.x",
+    "dpointer-build": "0.4.x",
+    "ecma402-build": "0.2.x"
+  },
+  "keywords": [
+    "web-components",
+    "delite",
+    "custom-elements"
+  ],
+  "ignore": [
+    ".jshintrc",
+    ".gitattributes",
+    ".travis.yml",
+    "tests",
+    "CONTRIBUTING.md"
+  ],
+  "devDependencies": {
+    "deliteful": "0.5.1"
+  }
+}

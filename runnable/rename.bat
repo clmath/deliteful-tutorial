@@ -1,0 +1,23 @@
+git mv -f .\part7\bower_components\deliteful\CheckBox.js .\part7\bower_components\deliteful\Checkbox.js
+git mv -f .\part7\bower_components\deliteful\CheckBox\ .\part7\bower_components\deliteful\Checkbox1\
+git mv -f .\part7\bower_components\deliteful\Checkbox1\ .\part7\bower_components\deliteful\Checkbox\
+git mv -f .\part7\bower_components\deliteful\Checkbox\CheckBox.html .\part7\bower_components\deliteful\Checkbox\Checkbox.html
+git mv -f .\part7\bower_components\deliteful\Checkbox\themes\CheckBox_template.less .\part7\bower_components\deliteful\Checkbox\themes\Checkbox_template.less
+git mv -f .\part7\bower_components\deliteful\Checkbox\themes\bootstrap\CheckBox.less .\part7\bower_components\deliteful\Checkbox\themes\bootstrap\Checkbox.less
+git mv -f .\part7\bower_components\deliteful\Checkbox\themes\bootstrap\CheckBox.css .\part7\bower_components\deliteful\Checkbox\themes\bootstrap\Checkbox.css
+git mv -f .\part7\bower_components\deliteful\Checkbox\themes\holodark\CheckBox.less .\part7\bower_components\deliteful\Checkbox\themes\holodark\Checkbox.less
+git mv -f .\part7\bower_components\deliteful\Checkbox\themes\holodark\CheckBox.css .\part7\bower_components\deliteful\Checkbox\themes\holodark\Checkbox.css
+git mv -f .\part7\bower_components\deliteful\Checkbox\themes\ios\CheckBox.less .\part7\bower_components\deliteful\Checkbox\themes\ios\Checkbox.less
+git mv -f .\part7\bower_components\deliteful\Checkbox\themes\ios\CheckBox.css .\part7\bower_components\deliteful\Checkbox\themes\ios\Checkbox.css
+
+git mv -f .\part7\bower_components\deliteful\ComboBox.js .\part7\bower_components\deliteful\Combobox.js
+git mv -f .\part7\bower_components\deliteful\ComboBox\ .\part7\bower_components\deliteful\Combobox1\
+git mv -f .\part7\bower_components\deliteful\Combobox1\ .\part7\bower_components\deliteful\Combobox\
+git mv -f .\part7\bower_components\deliteful\Combobox\ComboBox.html .\part7\bower_components\deliteful\Combobox\Combobox.html
+git mv -f .\part7\bower_components\deliteful\Combobox\themes\ComboBox_template.less .\part7\bower_components\deliteful\Combobox\themes\Combobox_template.less
+git mv -f .\part7\bower_components\deliteful\Combobox\themes\bootstrap\ComboBox.less .\part7\bower_components\deliteful\Combobox\themes\bootstrap\Combobox.less
+git mv -f .\part7\bower_components\deliteful\Combobox\themes\bootstrap\ComboBox.css .\part7\bower_components\deliteful\Combobox\themes\bootstrap\Combobox.css
+git mv -f .\part7\bower_components\deliteful\Combobox\themes\holodark\ComboBox.less .\part7\bower_components\deliteful\Combobox\themes\holodark\Combobox.less
+git mv -f .\part7\bower_components\deliteful\Combobox\themes\holodark\ComboBox.css .\part7\bower_components\deliteful\Combobox\themes\holodark\Combobox.css
+git mv -f .\part7\bower_components\deliteful\Combobox\themes\ios\ComboBox.less .\part7\bower_components\deliteful\Combobox\themes\ios\Combobox.less
+git mv -f .\part7\bower_components\deliteful\Combobox\themes\ios\ComboBox.css .\part7\bower_components\deliteful\Combobox\themes\ios\Combobox.css
